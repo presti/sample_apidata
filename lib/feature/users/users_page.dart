@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:sample_apidata/res/images.dart';
 
 import '../../../data/data_repository.dart';
 import '../../res/keys.dart';
